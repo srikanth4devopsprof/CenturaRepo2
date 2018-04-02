@@ -1,0 +1,1 @@
+copy "C:\DataFolder\PacticeApps\centuraapps\BuildTest.exe" "C:\DataFolder\PacticeApps\52"
